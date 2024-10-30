@@ -1,0 +1,29 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: bt2 Image Sphere\n"
+"POT-Creation-Date: 2017-02-07 16:47+0100\n"
+"PO-Revision-Date: 2017-02-07 16:48+0100\n"
+"Last-Translator: Codus <codus@bit2.me>\n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e\n"
+"X-Poedit-SearchPath-0: bt2-imagesphere.php\n"
+
+#: bt2-imagesphere.php:75
+msgid "Style of the container"
+msgstr "Container (CSS)"
+
+#: bt2-imagesphere.php:80
+msgid "Default width"
+msgstr "Breite (Standard)"
+
+#: bt2-imagesphere.php:85
+msgid "Default height"
+msgstr "Höhe (Standard)"
